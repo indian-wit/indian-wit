@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Rules"
 bg: indigo  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
@@ -7,7 +7,7 @@ fa-icon: group
 
 ## Indian Women in Tech Community Code of Conduct ##
 
-“Indian Women in Tech” in this document refers to the Indian Women in Tech chat group at [indian-women-in-tech.slack.com](http://womenintech.slack.com). “The administrators” refers to the administrators on this organization, a list is available at the top of the [Team Directory](https://womenintech.slack.com/team) (must be a member of the organization to view).
+“Indian Women in Tech” in this document refers to the Indian Women in Tech chat group at [indian-women-in-tech.slack.com](https://indian-women-in-tech.slack.com). “The administrators” refers to the administrators on this organization, a list is available at the top of the [Team Directory](https://indian-women-in-tech.slack.com/team) (must be a member of the organization to view).
 
 Indian Women in Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
