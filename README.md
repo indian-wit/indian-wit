@@ -1,3 +1,5 @@
 
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+
+# Indian Women in Technology
+
+indian-wit.github.io is the home page for the Indian Women in Technology community. 
